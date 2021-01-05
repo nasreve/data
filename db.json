@@ -1,6 +1,9 @@
 {
   "posts": [
-    { "no_rm": "01.02.01", "nama_pasien": "Ahmad Nas", "Alamat": "Solo" }
+    { "no_rm": "01.02.01", "nama_pasien": "Ahmad Nas", "Alamat": "Solo" },
+    { "no_rm": "01.02.02", "nama_pasien": "Irvan", "Alamat": "Sukoharjo" },
+    { "no_rm": "01.02.03", "nama_pasien": "Arga", "Alamat": "Sragen" },
+    { "no_rm": "01.02.04", "nama_pasien": "Idris", "Alamat": "Solo" }
     ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
